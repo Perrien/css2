@@ -1,0 +1,24 @@
+/* Color Palette
+#A7D2CB - Sky Blue
+#F2D388 - Sand
+#C98474 - red stone
+#874C62 - dark red substrate
+*/
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin-top: 0;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+h1 {
+  margin-block-start: 0;
+}
+div {
+  background-color: #A7D2CB;
+  margin-top: 5;
+  margin-left: 5;
+  margin-right: 5;
+}

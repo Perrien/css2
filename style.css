@@ -29,13 +29,19 @@ h1 {
 }
 
 .midContainer {
-  background-color: blue;
+  background-color: #F2D388;
   height: 300px;
   width: 50%;
+  padding: 10px 30px 10px 30px;
+  border: 8px;
+  border-color: #874C62;
+  border-radius: 5px;
+  margin: 15px;
 }
 
 .footerContainer {
-  background-color: red;
+  background-color: #C98474;
   height: 200px;
   width: 50%;
+  
 }

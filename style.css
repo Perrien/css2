@@ -26,6 +26,7 @@ h1 {
 
 .headerContainer {
   background-color: #A7D2CB;
+  padding: 10px;
 }
 
 .midContainer {
@@ -41,6 +42,7 @@ h1 {
 
 .footerContainer {
   background-color: #C98474;
+  padding: 10px;
   height: 200px;
   width: 50%;
   

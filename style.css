@@ -16,9 +16,26 @@ html, body {
 h1 {
   margin-block-start: 0;
 }
-div {
+
+/*div {
   background-color: #A7D2CB;
   margin-top: 5;
   margin-left: 5;
   margin-right: 5;
+}*/
+
+.headerContainer {
+  background-color: #A7D2CB;
+}
+
+.midContainer {
+  background-color: blue;
+  height: 300px;
+  width: 50%;
+}
+
+.footerContainer {
+  background-color: red;
+  height: 200px;
+  width: 50%;
 }

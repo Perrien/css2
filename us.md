@@ -13,7 +13,7 @@
 ---
 
 # Key Mitigation Strategies
-## Supply Chain & Geographic Strategy 
+### Supply Chain & Geographic Strategy 
 Companies are overwhelmingly adjusting their supply chains and geographic footprints to navigate tariffs and uncertainty, reducing reliance on single geographies and diversifying sourcing and production locations.
 
 * **3M Company:** Implementing a multi-pronged plan including optimizing production/logistics via its U.S. footprint, moving operations across networks/free trade zones, and exploring alternative production sites to leverage its global manufacturing footprint. Anticipates an annualized tariff impact of approximately $850 million before mitigation.
@@ -32,7 +32,7 @@ Companies are overwhelmingly adjusting their supply chains and geographic footpr
 
 * **Amkor Technology, Inc:** Mentions expanding its geographic footprint as part of its long-term strategy to navigate market dynamics, including trade restrictions, though largely unaffected directly due to operating in free trade zones. 
 
-## Pricing Adjustments 
+### Pricing Adjustments 
 Passing on increased costs due to tariffs is a frequently mentioned strategy, though its feasibility varies depending on market conditions and pricing power.
 
 * **Amphenol Corporation:** Anticipates a "slight impact on pricing" in CQ2 2025 and will work with customers to pass on pricing impacts where necessary.

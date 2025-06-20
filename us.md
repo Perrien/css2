@@ -96,7 +96,7 @@ The mitigation strategies observed in our suppliers are broadly adopted across t
 
 * **Elevated Government Affairs & Compliance:** Companies like Stellantis (STLA) and General Motors (GM) are actively engaging with governments on tariff policy, highlighting the increased importance of government affairs and robust trade compliance expertise. 
 
-## Future Outlook and Strategic Adaptations 
+### Future Outlook and Strategic Adaptations 
 The broader market anticipates tariffs as a persistent feature, driving fundamental strategic shifts beyond short-term adjustments.
 
 * **"New Normal" of Trade Friction:** Economic forecasts predict a "new normal" with elevated effective U.S. tariff rates. This long-term expectation is underscored by companies making significant, structural investments in supply chain reconfiguration, rather than temporary fixes. Companies like First Solar (FSLR) have significantly reduced guidance and are considering idling facilities, reflecting anticipation of enduring challenges.

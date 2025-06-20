@@ -13,7 +13,7 @@
 ---
 
 # Key Mitigation Strategies
-##Supply Chain & Geographic Strategy 
+## Supply Chain & Geographic Strategy 
 Companies are overwhelmingly adjusting their supply chains and geographic footprints to navigate tariffs and uncertainty, reducing reliance on single geographies and diversifying sourcing and production locations.
 
 * **3M Company:** Implementing a multi-pronged plan including optimizing production/logistics via its U.S. footprint, moving operations across networks/free trade zones, and exploring alternative production sites to leverage its global manufacturing footprint. Anticipates an annualized tariff impact of approximately $850 million before mitigation.
@@ -32,7 +32,7 @@ Companies are overwhelmingly adjusting their supply chains and geographic footpr
 
 * **Amkor Technology, Inc:** Mentions expanding its geographic footprint as part of its long-term strategy to navigate market dynamics, including trade restrictions, though largely unaffected directly due to operating in free trade zones. 
 
-##Pricing Adjustments 
+## Pricing Adjustments 
 Passing on increased costs due to tariffs is a frequently mentioned strategy, though its feasibility varies depending on market conditions and pricing power.
 
 * **Amphenol Corporation:** Anticipates a "slight impact on pricing" in CQ2 2025 and will work with customers to pass on pricing impacts where necessary.
@@ -41,7 +41,7 @@ Passing on increased costs due to tariffs is a frequently mentioned strategy, th
 
 * **Viavi Solutions Inc:** Is passing on tariff costs to customers for new and unconfirmed orders, though absorbing approximately $3 million in tariff costs in Fiscal Q4 2025 on previously committed orders. 
 
-##Inventory Management 
+## Inventory Management 
 Adjusting inventory levels is another tactic companies are using, either building up stock ahead of anticipated tariffs or managing inventory tightly in response to uncertainty.
 
 * **3M Company:** Noted it carries 90 days of inventory, which helped minimize direct tariff cost impact in CQ1 2025 as most tariffs were recently enacted.
@@ -50,7 +50,7 @@ Adjusting inventory levels is another tactic companies are using, either buildin
 
 * **Diodes Incorporated:** Emphasized the need to maintain inventory/WIP availability to support customers who are dynamically changing their build locations in response to tariffs. 
 
-##Operational Efficiency & Cost Control 
+## Operational Efficiency & Cost Control 
 Companies are focusing on internal cost reduction and operational efficiency to help offset tariff-related cost increases and manage market uncertainty.
 
 * **Celanese Corporation:** Pursuing aggressive cost reduction and prepared to reduce plant operating rates in response to potential demand declines.
@@ -64,7 +64,7 @@ Companies are focusing on internal cost reduction and operational efficiency to 
 # Broader US Market Confirmation & Additional Insights 
 While the preceding sections detailed tariff impacts and strategies for our suppliers, the below section focuses on broader market research covering most large public US headquartered companies. 
 
-##Widespread Impact and Market Sentiment 
+## Widespread Impact and Market Sentiment 
 The concern over tariffs and trade uncertainty is virtually universal among large US companies.
 
 * **Unprecedented Discourse:** FactSet data shows 411 S&P 500 companies (91% of calls) cited "tariff" or "tariffs" in Q1 2025 earnings calls, the highest in a decade. Similarly, 381 S&P 500 companies (84% of calls) mentioned "uncertainty". This highlights that the issue is at the forefront of C-suite concerns across nearly every major sector.
@@ -75,7 +75,7 @@ The concern over tariffs and trade uncertainty is virtually universal among larg
 
 * **Sector Exposure:** While pervasive, impacts are most pronounced in sectors with complex global supply chains or reliance on imported goods, including Automotive, Retail, Technology, Industrials, Manufacturing, and Energy/Utilities/Resources. 
 
-##Confirmation of Strategies & Additional Market-Wide Approaches 
+## Confirmation of Strategies & Additional Market-Wide Approaches 
 The mitigation strategies observed in our suppliers are broadly adopted across the US market, with some additional nuances gaining prominence.
 
 * **Supply Chain Diversification ("China + 1"):** This is a dominant response, with nearly 30% of firms planning to diversify supply chains. Companies like Apple (AAPL) are actively shifting iPhone production to India and other products to Vietnam. ON Semiconductor (ON) highlights its flexible, geographically diversified supply chain across 19 internal facilities. This is driving shifts in global shipping patterns, as evidenced by Global Ship Lease (GSL) noting increased volumes in smaller trade lanes serving Southeast Asian countries.
@@ -96,7 +96,7 @@ The mitigation strategies observed in our suppliers are broadly adopted across t
 
 * **Elevated Government Affairs & Compliance:** Companies like Stellantis (STLA) and General Motors (GM) are actively engaging with governments on tariff policy, highlighting the increased importance of government affairs and robust trade compliance expertise. 
 
-##Future Outlook and Strategic Adaptations 
+## Future Outlook and Strategic Adaptations 
 The broader market anticipates tariffs as a persistent feature, driving fundamental strategic shifts beyond short-term adjustments.
 
 * **"New Normal" of Trade Friction:** Economic forecasts predict a "new normal" with elevated effective U.S. tariff rates. This long-term expectation is underscored by companies making significant, structural investments in supply chain reconfiguration, rather than temporary fixes. Companies like First Solar (FSLR) have significantly reduced guidance and are considering idling facilities, reflecting anticipation of enduring challenges.

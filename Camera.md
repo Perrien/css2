@@ -1,5 +1,4 @@
 # Executive Summary
-## Highlights across Companies
 
 * Major relevant **headwinds** include **widespread U.S. tariff concerns** impacting numerous companies like **Sony, Alps**, and **Kyocera** who detailed significant expected profit impacts. **Supply chain disruptions and rare earth element availability** are affecting companies such as **Minebea Mitsumi** (optical devices) and **Largan** (VCM and actuator components for camera modules). Additionally, **AGC** highlighted ongoing **raw material and fuel cost pressures**.
 
@@ -47,7 +46,6 @@
 ---
 
 # Analyst Q&A Synthesis
-## Common Questions & Company Responses
 
 * **Tariff Impact and Mitigation Strategies:** This was a pervasive theme. Management across multiple companies (**Sony, Alps, Viavi, 3M, LG Electronics, Sumitomo**) acknowledged significant potential impacts from U.S. tariffs on components like displays, sensors, and power systems. Common mitigation strategies discussed include **diversifying production locations** (e.g., **Sony** for PS5 hardware, **LG Electronics** optimizing Mexico/U.S. plants), **adjusting supply chains** (**Viavi** aiming to realign within 3-6 months), attempting to **pass on costs to customers** (**Alps, Viavi**), strategic inventory management (**Sony, Sumitomo**), and discontinuing unprofitable SKUs (**Sony**). **Amkor** noted its global free trade zone footprint offers some protection but remains vigilant about customer supply chain disruptions.
 
@@ -64,7 +62,6 @@
 ---
 
 # Key Themes
-## Top 5 Themes, with company-specific highlights
 
 * **Tariffs & Trade (14/17 companies):** Companies like **Alps Alpine** (JPY23bn+ operating profit impact) and **3M** ($850m annualized gross impact) are **quantifying significant US tariff effects**, primarily in automotive and electronics, and are **implementing mitigations such as production shifts (Samsung, LG Electronics) and price adjustments (Viavi, Sony)**, while others like **Largan Precision** and **Amkor Technology** anticipate minimal direct impact but note customer supply chain risks.
 

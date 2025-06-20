@@ -1,11 +1,11 @@
-###AIBar Presents
-#CQ1’25 Earnings Season Recap 
-##Focus: Camera, Display & Battery
+### AIBar Presents
+# CQ1’25 Earnings Season Recap 
+## Focus: Camera, Display & Battery
 
 ---
 
-#Executive Summary
-##Highlights across Companies
+# Executive Summary
+## Highlights across Companies
 
 * Major relevant **headwinds** include **widespread U.S. tariff concerns** impacting numerous companies like **Sony, Alps**, and **Kyocera** who detailed significant expected profit impacts. **Supply chain disruptions and rare earth element availability** are affecting companies such as **Minebea Mitsumi** (optical devices) and **Largan** (VCM and actuator components for camera modules). Additionally, **AGC** highlighted ongoing **raw material and fuel cost pressures**.
 

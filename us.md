@@ -41,7 +41,7 @@ Passing on increased costs due to tariffs is a frequently mentioned strategy, th
 
 * **Viavi Solutions Inc:** Is passing on tariff costs to customers for new and unconfirmed orders, though absorbing approximately $3 million in tariff costs in Fiscal Q4 2025 on previously committed orders. 
 
-## Inventory Management 
+### Inventory Management 
 Adjusting inventory levels is another tactic companies are using, either building up stock ahead of anticipated tariffs or managing inventory tightly in response to uncertainty.
 
 * **3M Company:** Noted it carries 90 days of inventory, which helped minimize direct tariff cost impact in CQ1 2025 as most tariffs were recently enacted.
@@ -50,7 +50,7 @@ Adjusting inventory levels is another tactic companies are using, either buildin
 
 * **Diodes Incorporated:** Emphasized the need to maintain inventory/WIP availability to support customers who are dynamically changing their build locations in response to tariffs. 
 
-## Operational Efficiency & Cost Control 
+### Operational Efficiency & Cost Control 
 Companies are focusing on internal cost reduction and operational efficiency to help offset tariff-related cost increases and manage market uncertainty.
 
 * **Celanese Corporation:** Pursuing aggressive cost reduction and prepared to reduce plant operating rates in response to potential demand declines.
@@ -64,7 +64,7 @@ Companies are focusing on internal cost reduction and operational efficiency to 
 # Broader US Market Confirmation & Additional Insights 
 While the preceding sections detailed tariff impacts and strategies for our suppliers, the below section focuses on broader market research covering most large public US headquartered companies. 
 
-## Widespread Impact and Market Sentiment 
+### Widespread Impact and Market Sentiment 
 The concern over tariffs and trade uncertainty is virtually universal among large US companies.
 
 * **Unprecedented Discourse:** FactSet data shows 411 S&P 500 companies (91% of calls) cited "tariff" or "tariffs" in Q1 2025 earnings calls, the highest in a decade. Similarly, 381 S&P 500 companies (84% of calls) mentioned "uncertainty". This highlights that the issue is at the forefront of C-suite concerns across nearly every major sector.
@@ -75,7 +75,7 @@ The concern over tariffs and trade uncertainty is virtually universal among larg
 
 * **Sector Exposure:** While pervasive, impacts are most pronounced in sectors with complex global supply chains or reliance on imported goods, including Automotive, Retail, Technology, Industrials, Manufacturing, and Energy/Utilities/Resources. 
 
-## Confirmation of Strategies & Additional Market-Wide Approaches 
+### Confirmation of Strategies & Additional Market-Wide Approaches 
 The mitigation strategies observed in our suppliers are broadly adopted across the US market, with some additional nuances gaining prominence.
 
 * **Supply Chain Diversification ("China + 1"):** This is a dominant response, with nearly 30% of firms planning to diversify supply chains. Companies like Apple (AAPL) are actively shifting iPhone production to India and other products to Vietnam. ON Semiconductor (ON) highlights its flexible, geographically diversified supply chain across 19 internal facilities. This is driving shifts in global shipping patterns, as evidenced by Global Ship Lease (GSL) noting increased volumes in smaller trade lanes serving Southeast Asian countries.

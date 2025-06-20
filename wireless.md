@@ -1,4 +1,4 @@
-# Executive Summary
+## Executive Summary
 
 * The overall market trend for companies in the wireless communication sector is mixed: **QUALCOMM and MediaTek** reported significant positive revenue movements driven by **premium Android demand, AI, and Wi-Fi 7 adoption**, while **STMicroelectronics** saw a decline in its RF & Optical Communications segment, and **Murata** projects a decline in high-frequency module revenue.
 
@@ -12,7 +12,7 @@
 
 ---
 
-# Supplier-Specific Highlights
+## Supplier-Specific Highlights
 
 * **Infineon**'s Power & Sensor Systems (PSS) segment benefited from **strong growth in power solutions for AI servers**, which helped offset price declines in consumer-related applications. The company is carefully managing **fab utilization levels** due to tariff-related demand risks and expects significant **idle charges** to maintain healthy inventory.
 
@@ -34,7 +34,7 @@
 
 ---
 
-# Analyst Q&A Synthesis
+## Analyst Q&A Synthesis
 
 * **Inventory Outlook & Demand for Wireless Components:** Management at **Skyworks Solutions** indicated that **inventory corrections are largely complete for its broad markets segment (which includes Wi-Fi). QUALCOMM** reported **no material pull-ins from customers due to tariff concerns**, attributing this to its diversified global supply chain. **Murata** noted **strong order intake for MLCCs** and an easing of price declines in that category.
 
@@ -48,7 +48,7 @@
 
 ---
 
-# Key Themes
+## Key Themes
 
 * **Tariffs (9/9 companies):** While companies like **Skyworks, NXP, and Qualcomm** report minimal direct tariff impact and no significant customer pull-ins, **Murata** observed JPY15 billion in front-loaded demand for high-frequency modules, and **MediaTek and Intel** also noted customer purchasing in anticipation of tariffs. **Infineon and Intel** are adjusting forecasts due to expected indirect demand headwinds, with **Infineon** guesstimating a 10% Q4 revenue impact.
 
